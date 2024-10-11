@@ -1,0 +1,8 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "cardsPrice": 500000,
+  "howManyGames": 100,
+  "doTasks": true
+}

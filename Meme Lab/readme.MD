@@ -35,7 +35,7 @@ To get started with the bot, follow these steps:
   "cardsPrice": 500000, //is card price > than this it will stop upgrade
   "howManyGames": 100, // how many games you want to play
   "doTasks": true,
-  "limit": 5, //number of accounts run 1 a row
+  "limit": 5, //number of accounts run in a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
   "country_time": "vi-VN" //timestamp base on the country
 }

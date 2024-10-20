@@ -32,6 +32,7 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "cipherToday": "HAHSDHAHD",
   "cardsPrice": 500000, //is card price > than this it will stop upgrade
   "howManyGames": 100, // how many games you want to play
   "doTasks": true,

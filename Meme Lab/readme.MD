@@ -14,6 +14,8 @@ To get started with the bot, follow these steps:
 
 0. **Dowload NodeJS to run the bot**
 
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
 1. **Install Dependencies and Modules:**
@@ -44,7 +46,7 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Get if from: [here](https://t.me/KeoAirDropFreeNe/257/6879)
 
 ```txt
 query_id.../user...
@@ -72,6 +74,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `cd meme-lab-main/memelab; node 1`
 
 🎇Enjoy!

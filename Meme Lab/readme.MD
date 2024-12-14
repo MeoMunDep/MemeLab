@@ -32,14 +32,16 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "cipherToday": "HAHSDHAHD",
-  "cardsPrice": 500000, //is card price > than this it will stop upgrade
-  "howManyGames": 100, // how many games you want to play
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "cardsPrice": 500000,
+  "howManyGames": 100,
   "doTasks": true,
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "cipherToday": "HAHSDHAHD",
+  "amountOfUpgradeBattle": 10
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ -

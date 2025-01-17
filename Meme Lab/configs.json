@@ -5,6 +5,8 @@
   "cardsPrice": 500000,
   "howManyGames": 100,
   "doTasks": true,
+  "upgradeCards": true,
   "cipherToday": "HAHSDHAHD",
-  "amountOfUpgradeBattle": 10
+  "amountOfUpgradeBattle": 10,
+  "referralCode": "H2CS5I"
 }

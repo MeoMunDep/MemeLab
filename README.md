@@ -46,9 +46,9 @@ To get started with the bot, follow these steps:
   "upgradeCards": true,
   "cipherToday": "HAHSDHAHD",
   "amountOfUpgradeBattle": 10,
-  "referralCode": "H2CS5I"
+  "referralCode": "H2CS5I",
+  "delayEachAccount": [1, 1]
 }
-
 
 ```
 
